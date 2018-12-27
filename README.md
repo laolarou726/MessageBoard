@@ -1,14 +1,13 @@
 # MessageBoard
 
-> 这是一个留言板程序\
-\
-\
+> 这是一个留言板程序
 ##技术栈：
 ```
-NUXT\
-Vue.js\
-Vuetify\
-@nuxt/axios \
+Typescript
+NUXT
+Vue.js
+Vuetify
+@nuxt/axios 
 VUEX
 ```
 
