@@ -1,22 +1,38 @@
 # MessageBoard
 
-> A message board program.
+> 这是一个留言板程序\
+\
+\
+##技术栈：
+```
+NUXT\
+Vue.js\
+Vuetify\
+@nuxt/axios \
+VUEX
+```
 
-## Build Setup
+##目前进度
+####·完成了基本组件的编写以及环境搭建
+
+##待完成
+####·登陆部分实现
+####·评论上传功能实现
+####·其余待续
+
+## 如何启动？
 
 ``` bash
-# install dependencies
+# 安装依赖
 $ npm install
 
-# serve with hot reload at localhost:3000
+# 启动，并且拥有热重载。（3000端口）
 $ npm run dev
 
-# build for production and launch server
+# 生产模式编译+运行
 $ npm run build
 $ npm start
 
-# generate static project
+# 生成静态工程
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
