@@ -1,0 +1,23 @@
+{
+  "extends": [
+    "tslint-config-standard"
+  ],
+  "rules": {
+    "semicolon": [
+      true,
+      "always"
+    ],
+    "quotemark": [
+      true,
+      "double"
+    ],
+    "whitespace": [
+      true,
+      "check-module",
+      "check-branch",
+      "check-operator",
+      "check-preblock",
+      "check-decl"
+    ]
+  }
+}
